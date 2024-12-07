@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed on your Linux system:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd 3d-room-explorer
+git clone <repo>
+cd firstperson-demo
 ```
 
 2. Install dependencies:
